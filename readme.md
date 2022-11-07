@@ -13,12 +13,6 @@
 </th>
 </tr>
 </thead>
-<tbody><tr id="row11781155193912"><td class="cellrowborder" valign="top" width="33.33333333333333%" headers="mcps1.1.4.1.1 "><p id="p156032202126"><a name="p156032202126"></a><a name="p156032202126"></a>路由插件</p>
-</td>
-<td class="cellrowborder" valign="top" width="33.33333333333333%" headers="mcps1.1.4.1.2 "><a name="ul917912305211"></a><a name="ul917912305211"></a><ul id="ul917912305211"><li>SaaS支持多种存储类型组件动态路由，如RDS、Redis、MQ、ES等。</li><li>SaaS支持不同存储组件动态加载，即根据后端资源动态开启或者关闭。</li><li>SaaS支持租户访问零信任安全策略，对访问请求多重校验。</li></ul>
-</td>
-<td class="cellrowborder" valign="top" width="33.33333333333333%" headers="mcps1.1.4.1.3 "><p id="p1660362021212"><a name="p1660362021212"></a><a name="p1660362021212"></a><a href="https://gitee.com/HuaweiCloudDeveloper/saas-tenant-router-starter" target="_blank" rel="noopener noreferrer">saas-tenant-router-starter</a></p>
-</td>
 </tr>
 <tr id="row16781165123915"><td class="cellrowborder" valign="top" width="33.33333333333333%" headers="mcps1.1.4.1.1 "><p id="p92745291417"><a name="p92745291417"></a><a name="p92745291417"></a>thanos对接OBS插件</p>
 </td>
@@ -78,16 +72,7 @@
 </tr>
 <tr id="row16112191018426"><td class="cellrowborder" valign="top" width="33.33333333333333%" headers="mcps1.1.4.1.1 "><p id="p206400371391"><a name="p206400371391"></a><a name="p206400371391"></a>ServiceStage</p>
 </td>
-<td class="cellrowborder" valign="top" width="33.33333333333333%" headers="mcps1.1.4.1.2 "><p id="p1964033753913"><a name="p1964033753913"></a><a name="p1964033753913"></a>ServiceStage提供应用开发、构建、发布、监控及运维等一站式解决方案。包括Java、Go、PHP、Node.js、Docker、Tomcat等运行环境，支持微服务应用、Web应用以及通用应用的托管与治理，让企业应用上云更简单。</p>
-</td>
-<td class="cellrowborder" valign="top" width="33.33333333333333%" headers="mcps1.1.4.1.3 "><p id="p16640937133911"><a name="p16640937133911"></a><a name="p16640937133911"></a><a href="https://gitee.com/HuaweiCloudDeveloper/huaweicloud-servicestage-components-version-upgrade-plugins" target="_blank" rel="noopener noreferrer">huaweicloud-servicestage-components-version-upgrade-plugins</a></p>
-</td>
-</tr>
-<tr id="row1294561024216"><td class="cellrowborder" valign="top" width="33.33333333333333%" headers="mcps1.1.4.1.1 "><p id="p17603142010120"><a name="p17603142010120"></a><a name="p17603142010120"></a>Flyway</p>
-</td>
 <td class="cellrowborder" valign="top" width="33.33333333333333%" headers="mcps1.1.4.1.2 "><p id="p560332061210"><a name="p560332061210"></a><a name="p560332061210"></a>数据库迁移工具</p>
-</td>
-<td class="cellrowborder" valign="top" width="33.33333333333333%" headers="mcps1.1.4.1.3 "><p id="p2603192091217"><a name="p2603192091217"></a><a name="p2603192091217"></a><a href="https://gitee.com/HuaweiCloudDeveloper/flyway" target="_blank" rel="noopener noreferrer">flyway</a></p>
 </td>
 </tr>
 <tr id="row8237314194317"><td class="cellrowborder" valign="top" width="33.33333333333333%" headers="mcps1.1.4.1.1 "><p id="p1053931332417"><a name="p1053931332417"></a><a name="p1053931332417"></a>Druid对接OBS插件</p>
@@ -99,4 +84,5 @@
 </tr>
 </tbody>
 </table>
+
 
