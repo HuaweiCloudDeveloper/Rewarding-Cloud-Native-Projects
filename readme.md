@@ -20,10 +20,10 @@
 | datax对接OBS插件      | datax对接华为云OBS插件      | [obs-datax-plugins](https://gitee.com/HuaweiCloudDeveloper/obs-datax-plugins) |
 | clickhouse对接OBS插件 | clickhouse对接华为云OBS插件 | [obs-clickhouse-plugins](https://gitee.com/HuaweiCloudDeveloper/obs-clickhouse-plugins) |
 | Druid对接OBS插件      | Druid对接OBS插件            | [obs-druid-plugins](https://gitee.com/HuaweiCloudDeveloper/obs-druid-plugins) |
-| Apache NiFi           |                             | [Huawei-NiFi-bundle](https://gitee.com/HuaweiCloudDeveloper/huawei-nifi-bundle) |
+| Apache NiFi           | 提供OBS,DWS等扩展                            | [Huawei-NiFi-bundle](https://gitee.com/HuaweiCloudDeveloper/huawei-nifi-bundle) |
 | Kettle                |                             | [待发布](https://gitee.com/HuaweiCloudDeveloper/kettle)      |
 | Jupyter Notebook      |                             | [待发布](https://gitee.com/HuaweiCloudDeveloper/jupyter-notebook) |
-| Apache Airflow        |                             | [Huawei-Airflow-provider](https://gitee.com/HuaweiCloudDeveloper/huawei-airflow-provider) |
+| Apache Airflow        | 对接OBS,DWS,DLI,CDM,SMN,DataArts等云服务                             | [Huawei-Airflow-provider](https://gitee.com/HuaweiCloudDeveloper/huawei-airflow-provider) |
 | Apache Livy(孵化期)   |                             | [待发布](https://gitee.com/HuaweiCloudDeveloper/apache-livy) |
 | Cassandra             |                             | [待发布](https://gitee.com/HuaweiCloudDeveloper/cassandra)   |
 
