@@ -11,15 +11,15 @@
 
 | 项目                  | 简介                        | 仓库                                                         |
 | --------------------- | --------------------------- | ------------------------------------------------------------ |
-| thanos对接OBS插件     | thanos对接华为云OBS插件     | [obs-thanos-plugins](https://gitee.com/HuaweiCloudDeveloper/obs-thanos-plugins) |
-| tensorflow对接OBS插件 | tensorflow对接华为云OBS插件 | [obs-tensorflow-plugins](https://gitee.com/HuaweiCloudDeveloper/obs-tensorflow-plugins) |
-| presto对接OBS插件     | presto对接华为云OBS插件     | [obs-presto-plugin](https://gitee.com/HuaweiCloudDeveloper/obs-presto-plugin) |
-| logstash对接OBS插件   | logstash对接华为云OBS插件   | [obs-logstash-plugins](https://gitee.com/HuaweiCloudDeveloper/obs-logstash-plugins) |
-| jenkins对接OBS插件    | jenkins对接华为云OBS插件    | [obs-jenkins-plugins](https://gitee.com/HuaweiCloudDeveloper/obs-jenkins-plugins) |
-| flink对接OBS插件      | flink对接华为云OBS插件      | [obs-flink-plugins](https://gitee.com/HuaweiCloudDeveloper/obs-flink-plugins) |
-| datax对接OBS插件      | datax对接华为云OBS插件      | [obs-datax-plugins](https://gitee.com/HuaweiCloudDeveloper/obs-datax-plugins) |
-| clickhouse对接OBS插件 | clickhouse对接华为云OBS插件 | [obs-clickhouse-plugins](https://gitee.com/HuaweiCloudDeveloper/obs-clickhouse-plugins) |
-| Druid对接OBS插件      | Druid对接OBS插件            | [obs-druid-plugins](https://gitee.com/HuaweiCloudDeveloper/obs-druid-plugins) |
+| thanos对接OBS插件     | thanos对接华为云OBS插件     | [Huawei-Thanos-plugins](https://gitee.com/HuaweiCloudDeveloper/obs-thanos-plugins) |
+| tensorflow对接OBS插件 | tensorflow对接华为云OBS插件 | [Huawei-Tensorflow-plugins](https://gitee.com/HuaweiCloudDeveloper/obs-tensorflow-plugins) |
+| presto对接OBS插件     | presto对接华为云OBS插件     | [Huawei-Presto-plugins](https://gitee.com/HuaweiCloudDeveloper/obs-presto-plugin) |
+| logstash对接OBS插件   | logstash对接华为云OBS插件   | [Huawei-Logstash-plugins](https://gitee.com/HuaweiCloudDeveloper/obs-logstash-plugins) |
+| jenkins对接OBS插件    | jenkins对接华为云OBS插件    | [Huawei-Jenkins-plugins](https://gitee.com/HuaweiCloudDeveloper/obs-jenkins-plugins) |
+| flink对接OBS插件      | flink对接华为云OBS插件      | [Huawei-Flink-plugins](https://gitee.com/HuaweiCloudDeveloper/obs-flink-plugins) |
+| datax对接OBS插件      | datax对接华为云OBS插件      | [Huawei-Datax-plugins](https://gitee.com/HuaweiCloudDeveloper/obs-datax-plugins) |
+| clickhouse对接OBS插件 | clickhouse对接华为云OBS插件 | [Huawei-Clickhouse-plugins](https://gitee.com/HuaweiCloudDeveloper/obs-clickhouse-plugins) |
+| Druid对接OBS插件      | Druid对接OBS插件            | [Huawei-Druid-plugins](https://gitee.com/HuaweiCloudDeveloper/obs-druid-plugins) |
 | Apache NiFi           | 提供OBS,DWS等扩展                            | [Huawei-NiFi-bundle](https://gitee.com/HuaweiCloudDeveloper/huawei-nifi-bundle) |
 | Kettle                |                             | [待发布](https://gitee.com/HuaweiCloudDeveloper/kettle)      |
 | Jupyter Notebook      |                             | [待发布](https://gitee.com/HuaweiCloudDeveloper/jupyter-notebook) |
