@@ -31,7 +31,7 @@
 | [Huawei-Backstage](https://gitee.com/HuaweiCloudDeveloper/huawei-backstage-plugins) | Backstage对接华为云服务                                      | 袁俊波                                         | 开发中 |
 | [Huawei-Iceberg](https://gitee.com/HuaweiCloudDeveloper/huawei-iceberg-plugins) | Iceberg对接华为云OBS，Nosql，DataArts等云服务，进行代码扩展  | [鬼画符](https://gitee.com/mail_osc)           | 开发中 |
 | [Huawei-Seatunnel](https://gitee.com/HuaweiCloudDeveloper/huawei-seatunnel-plugins) | Seatunnel对接华为云服务                                      | [ludihu](https://gitee.com/ludihu)             | 待分配 |
-| [Huawei-Prefect](https://gitee.com/HuaweiCloudDeveloper/huawei-prefect-plugins) | Prefect对接华为云服务                                        | zhangxinsan                                    |        |
+| [Huawei-Prefect](https://gitee.com/HuaweiCloudDeveloper/huawei-prefect-plugins) | Prefect对接华为云服务                                        | [zangxinshan](https://gitee.com/zangxinshan)                                    |   开发中     |
 | [Huawei-Hazel IMDG](https://gitee.com/HuaweiCloudDeveloper/huawei-hazel-imdg-plugins) | Hazel对接华为云OBS，DLI，ECS等云服务                         | 待分配                                         | 待分配 |
 | [Huawei-Vault](https://gitee.com/HuaweiCloudDeveloper/huawei-vault-plugins) | Vault对接华为云服务                                          | [peng](https://gitee.com/pengcss)              | 开发中 |
 | [Huawei-Zeppelin](https://gitee.com/HuaweiCloudDeveloper/huawei-zeppelin-plugins) | Zeppelin对接华为云服务                                       | 待分配                                         | 待分配 |
@@ -42,7 +42,7 @@
 | [Huawei-GoCD](https://gitee.com/HuaweiCloudDeveloper/huawei-go-cd-plugins) | GoCD对接华为云OBS，ECS等云服务                               | 待分配                                         | 待分配 |
 | [Huawei-Doris](https://gitee.com/HuaweiCloudDeveloper/huawei-doris-plugins) | Doris对接华为云OBS，DataArts，DWS等云服务                    | 待分配                                         | 待分配 |
 | [Huawei-DolphinScheduler](https://gitee.com/HuaweiCloudDeveloper/huawei-dolphin-scheduler-plugins) | DolphinScheduler对接华为云OBS，DLI，DWS，CCE，MRS等云服务    | 待分配                                         | 待分配 |
-| [Huawei-Pulsar](https://gitee.com/HuaweiCloudDeveloper/huawei-pulsar-plugins) | Pulsar对接华为云OBS，DLI，DWS等云服务                        | 3238498@163.com                                |        |
+| [Huawei-Pulsar](https://gitee.com/HuaweiCloudDeveloper/huawei-pulsar-plugins) | Pulsar对接华为云OBS，DLI，DWS等云服务                        | momimi1234                                |        |
 | [Huawei-Druid](https://gitee.com/HuaweiCloudDeveloper/Huaweicloud-Druid-plugin) | Druid对接华为云OBS，DLI，RDS等云服务                         | 待分配                                         | 待分配 |
 | [jupyter-notebook](https://gitee.com/HuaweiCloudDeveloper/jupyter-notebook) |                                                              |                                                |        |
 | [apache-livy](https://gitee.com/HuaweiCloudDeveloper/apache-livy) |                                                              |                                                |        |
