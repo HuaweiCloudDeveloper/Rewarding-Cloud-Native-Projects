@@ -23,27 +23,27 @@
 | [Huawei-NiFi](https://gitee.com/HuaweiCloudDeveloper/huawei-nifi-bundle) | 提供OBS，DWS，CDM，DLI，SMN，DataArts等云服务插件扩展        | [招财猫](https://gitee.com/li-lianglong_admin) | 开发中 |
 | [Huawei-Kettle](https://gitee.com/HuaweiCloudDeveloper/Huawei-Kettle-plugins) | 提供OBS，DWS，CDM，DLI，SMN，DataArts等云服务插件扩展        | [acewuye](https://gitee.com/acewuye)           | 待分配 |
 | [Huawei-Airflow](https://gitee.com/HuaweiCloudDeveloper/huawei-airflow-provider) | 提供OBS，DWS，CDM，DLI，SMN，DataArts等云服务插件扩展        | [chenweikai](https://gitee.com/chen_xuanwen)   | 已完成 |
-| Huawei-Sqoop                                                 | Sqoop对接华为云OBS插件                                       | [鬼画符](https://gitee.com/mail_osc)           | 开发中 |
-| Huawei-Deepstream                                            | Deepstream对接华为云OBS插件                                  | 梁剑                                           | 开发中 |
-| Huawei-Crate.io                                              | Crate.io对接华为云OBS插件                                    | 待分配                                         | 待分配 |
-| Huawei-Heron                                                 | Heron对接华为云OBS插件                                       | 待分配                                         | 待分配 |
-| Huawei-Hudi                                                  | Hudi对接华为云OBS，CES，NoSql，DataArts等云服务，进行代码扩展 | [鬼画符](https://gitee.com/mail_osc)           | 开发中 |
-| Huawei-Backstage                                             | Backstage对接华为云服务                                      | 袁俊波                                         | 开发中 |
-| Huawei-Iceberg                                               | Iceberg对接华为云OBS，Nosql，DataArts等云服务，进行代码扩展  | [鬼画符](https://gitee.com/mail_osc)           | 开发中 |
-| Huawei-Seatunnel                                             | Seatunnel对接华为云服务                                      | [ludihu](https://gitee.com/ludihu)             | 待分配 |
-| Huawei-Prefect                                               | Prefect对接华为云服务                                        | zhangxinsan                                    |        |
-| Huawei-Hazel IMDG                                            | Hazel对接华为云OBS，DLI，ECS等云服务                         | 待分配                                         | 待分配 |
-| Huawei-Vault                                                 | Vault对接华为云服务                                          | [peng](https://gitee.com/pengcss)              | 开发中 |
-| Huawei-Zeppelin                                              | Zeppelin对接华为云服务                                       | 待分配                                         | 待分配 |
+| [Huawei-Sqoop](https://gitee.com/HuaweiCloudDeveloper/huawei-sqoop-plugins) | Sqoop对接华为云OBS插件                                       | [鬼画符](https://gitee.com/mail_osc)           | 开发中 |
+| [Huawei-Deepstream](https://gitee.com/HuaweiCloudDeveloper/huawei-deepstream-plugins) | Deepstream对接华为云OBS插件                                  | 梁剑                                           | 开发中 |
+| [Huawei-Crate.io](https://gitee.com/HuaweiCloudDeveloper/huawei-crate.io-plugins) | Crate.io对接华为云OBS插件                                    | 待分配                                         | 待分配 |
+| [Huawei-Heron](https://gitee.com/HuaweiCloudDeveloper/huawei-heron-plugins) | Heron对接华为云OBS插件                                       | 待分配                                         | 待分配 |
+| [Huawei-Hudi](https://gitee.com/HuaweiCloudDeveloper/huawei-hudi-plugins) | Hudi对接华为云OBS，CES，NoSql，DataArts等云服务，进行代码扩展 | [鬼画符](https://gitee.com/mail_osc)           | 开发中 |
+| [Huawei-Backstage](https://gitee.com/HuaweiCloudDeveloper/huawei-backstage-plugins) | Backstage对接华为云服务                                      | 袁俊波                                         | 开发中 |
+| [Huawei-Iceberg](https://gitee.com/HuaweiCloudDeveloper/huawei-iceberg-plugins) | Iceberg对接华为云OBS，Nosql，DataArts等云服务，进行代码扩展  | [鬼画符](https://gitee.com/mail_osc)           | 开发中 |
+| [Huawei-Seatunnel](https://gitee.com/HuaweiCloudDeveloper/huawei-seatunnel-plugins) | Seatunnel对接华为云服务                                      | [ludihu](https://gitee.com/ludihu)             | 待分配 |
+| [Huawei-Prefect](https://gitee.com/HuaweiCloudDeveloper/huawei-prefect-plugins) | Prefect对接华为云服务                                        | zhangxinsan                                    |        |
+| [Huawei-Hazel IMDG](https://gitee.com/HuaweiCloudDeveloper/huawei-hazel-imdg-plugins) | Hazel对接华为云OBS，DLI，ECS等云服务                         | 待分配                                         | 待分配 |
+| [Huawei-Vault](https://gitee.com/HuaweiCloudDeveloper/huawei-vault-plugins) | Vault对接华为云服务                                          | [peng](https://gitee.com/pengcss)              | 开发中 |
+| [Huawei-Zeppelin](https://gitee.com/HuaweiCloudDeveloper/huawei-zeppelin-plugins) | Zeppelin对接华为云服务                                       | 待分配                                         | 待分配 |
 | [Huawei-ClickHouse](https://gitee.com/HuaweiCloudDeveloper/obs-clickhouse-plugins) | ClickHouse对接华为云服务                                     | 待分配                                         | 待分配 |
-| Huawei-Alluxio                                               | Alluxio对接华为云OBS，DataArts等云服务                       | 待分配                                         | 待分配 |
-| Huawei-Beam                                                  | Beam对接华为云OBS，Nosql，DMS，SMN，DLI等云服务              | [鬼画符](https://gitee.com/mail_osc)           | 开发中 |
-| Huawei-Storm                                                 | Beam对接华为云DataArts                                       | 待分配                                         | 待分配 |
-| Huawei-GoCD                                                  | GoCD对接华为云OBS，ECS等云服务                               | 待分配                                         | 待分配 |
-| Huawei-Doris                                                 | Doris对接华为云OBS，DataArts，DWS等云服务                    | 待分配                                         | 待分配 |
-| Huawei-DolphinScheduler                                      | DolphinScheduler对接华为云OBS，DLI，DWS，CCE，MRS等云服务    | 待分配                                         | 待分配 |
+| [Huawei-Alluxio](https://gitee.com/HuaweiCloudDeveloper/huawei-alluxio-plugins) | Alluxio对接华为云OBS，DataArts等云服务                       | 待分配                                         | 待分配 |
+| [Huawei-Beam](https://gitee.com/HuaweiCloudDeveloper/huawei-beam-plugins) | Beam对接华为云OBS，Nosql，DMS，SMN，DLI等云服务              | [鬼画符](https://gitee.com/mail_osc)           | 开发中 |
+| [Huawei-Storm](https://gitee.com/HuaweiCloudDeveloper/huawei-storm-plugins) | Beam对接华为云DataArts                                       | 待分配                                         | 待分配 |
+| [Huawei-GoCD](https://gitee.com/HuaweiCloudDeveloper/huawei-go-cd-plugins) | GoCD对接华为云OBS，ECS等云服务                               | 待分配                                         | 待分配 |
+| [Huawei-Doris](https://gitee.com/HuaweiCloudDeveloper/huawei-doris-plugins) | Doris对接华为云OBS，DataArts，DWS等云服务                    | 待分配                                         | 待分配 |
+| [Huawei-DolphinScheduler](https://gitee.com/HuaweiCloudDeveloper/huawei-dolphin-scheduler-plugins) | DolphinScheduler对接华为云OBS，DLI，DWS，CCE，MRS等云服务    | 待分配                                         | 待分配 |
 | [Huawei-Pulsar](https://gitee.com/HuaweiCloudDeveloper/huawei-pulsar-plugins) | Pulsar对接华为云OBS，DLI，DWS等云服务                        | 3238498@163.com                                |        |
-| Huawei-Druid                                                 | Druid对接华为云OBS，DLI，RDS等云服务                         | 待分配                                         | 待分配 |
+| [Huawei-Druid](https://gitee.com/HuaweiCloudDeveloper/Huaweicloud-Druid-plugin) | Druid对接华为云OBS，DLI，RDS等云服务                         | 待分配                                         | 待分配 |
 | [jupyter-notebook](https://gitee.com/HuaweiCloudDeveloper/jupyter-notebook) |                                                              |                                                |        |
 | [apache-livy](https://gitee.com/HuaweiCloudDeveloper/apache-livy) |                                                              |                                                |        |
 | [cassandra](https://gitee.com/HuaweiCloudDeveloper/cassandra) |                                                              |                                                |        |
