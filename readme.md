@@ -9,21 +9,21 @@
 
 
 
-| 项目                  | 简介                        | 仓库                                                         |
-| --------------------- | --------------------------- | ------------------------------------------------------------ |
-| thanos对接OBS插件     | thanos对接华为云OBS插件     | [Huawei-Thanos-plugins](https://gitee.com/HuaweiCloudDeveloper/obs-thanos-plugins) |
-| tensorflow对接OBS插件 | tensorflow对接华为云OBS插件 | [Huawei-Tensorflow-plugins](https://gitee.com/HuaweiCloudDeveloper/obs-tensorflow-plugins) |
-| presto对接OBS插件     | presto对接华为云OBS插件     | [Huawei-Presto-plugins](https://gitee.com/HuaweiCloudDeveloper/obs-presto-plugin) |
-| logstash对接OBS插件   | logstash对接华为云OBS插件   | [Huawei-Logstash-plugins](https://gitee.com/HuaweiCloudDeveloper/obs-logstash-plugins) |
-| jenkins对接OBS插件    | jenkins对接华为云OBS插件    | [Huawei-Jenkins-plugins](https://gitee.com/HuaweiCloudDeveloper/obs-jenkins-plugins) |
-| flink对接OBS插件      | flink对接华为云OBS插件      | [Huawei-Flink-plugins](https://gitee.com/HuaweiCloudDeveloper/obs-flink-plugins) |
-| datax对接OBS插件      | datax对接华为云OBS插件      | [Huawei-Datax-plugins](https://gitee.com/HuaweiCloudDeveloper/obs-datax-plugins) |
-| clickhouse对接OBS插件 | clickhouse对接华为云OBS插件 | [Huawei-Clickhouse-plugins](https://gitee.com/HuaweiCloudDeveloper/obs-clickhouse-plugins) |
-| Druid对接OBS插件      | Druid对接OBS插件            | [Huawei-Druid-plugins](https://gitee.com/HuaweiCloudDeveloper/obs-druid-plugins) |
-| Apache NiFi           | 提供OBS,DWS等扩展                            | [Huawei-NiFi-bundle](https://gitee.com/HuaweiCloudDeveloper/huawei-nifi-bundle) |
-| Kettle                |                             | [待发布](https://gitee.com/HuaweiCloudDeveloper/kettle)      |
-| Jupyter Notebook      |                             | [待发布](https://gitee.com/HuaweiCloudDeveloper/jupyter-notebook) |
-| Apache Airflow        | 对接OBS,DWS,DLI,CDM,SMN,DataArts等云服务                             | [Huawei-Airflow-provider](https://gitee.com/HuaweiCloudDeveloper/huawei-airflow-provider) |
-| Apache Livy(孵化期)   |                             | [待发布](https://gitee.com/HuaweiCloudDeveloper/apache-livy) |
-| Cassandra             |                             | [待发布](https://gitee.com/HuaweiCloudDeveloper/cassandra)   |
+| 仓库                                                         | 简介                                                         | Committer                                      | 状态   |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ---------------------------------------------- | ------ |
+| [Huawei-Thanos-plugins](https://gitee.com/HuaweiCloudDeveloper/obs-thanos-plugins) | 本项目的目的是扩展Thanos，使其支持OBS存储                    | [peng](https://gitee.com/pengcss)              | 完成   |
+| [Huawei-Tensorflow-plugins](https://gitee.com/HuaweiCloudDeveloper/obs-tensorflow-plugins) | 本项目是在[TensorFlow I/O](https://gitee.com/link?target=https%3A%2F%2Fgithub.com%2Ftensorflow%2Fio)添加对HuaweiCloud OBS的存储支持 | 待分配                                         | 待分配 |
+| [Huawei-Presto-plugins](https://gitee.com/HuaweiCloudDeveloper/obs-presto-plugin) | 本项目将基于Presto的扩展式connector机制，完成对华为云OBS，DataArts，DWS的支持 | [ysxyao](https://gitee.com/ysxyao)             | 开发中 |
+| [Huawei-Logstash-plugins](https://gitee.com/HuaweiCloudDeveloper/obs-logstash-plugins) | 利用Logstash的数据源扩展机制，使Logstash可以使用OBS作为输入，输出数据源 | [peng](https://gitee.com/pengcss)              | 完成   |
+| [Huawei-Jenkins-plugins](https://gitee.com/HuaweiCloudDeveloper/obs-jenkins-plugins) | jenkins对接华为云OBS插件                                     | 待分配                                         | 待分配 |
+| [Huawei-Flink-plugins](https://gitee.com/HuaweiCloudDeveloper/obs-flink-plugins) | 利用flink的扩展机制，对接华为云 OBS，DLI，CDM等服务。        | [@xfanonymous](https://gitee.com/xfanonymous)  | 开发中 |
+| [Huawei-Datax-plugins](https://gitee.com/HuaweiCloudDeveloper/obs-datax-plugins) | datax对接华为云OBS插件                                       | [鬼画符](https://gitee.com/mail_osc)           | 完成   |
+| [Huawei-Clickhouse-plugins](https://gitee.com/HuaweiCloudDeveloper/obs-clickhouse-plugins) | clickhouse对接华为云OBS插件                                  | 待分配                                         | 待分配 |
+| [Huawei-Druid-plugins](https://gitee.com/HuaweiCloudDeveloper/obs-druid-plugins) | Druid对接OBS，DLI插件                                        | [鹧鸪](https://gitee.com/zhegu123)             | 待分配 |
+| [Huawei-NiFi-bundle](https://gitee.com/HuaweiCloudDeveloper/huawei-nifi-bundle) | 提供OBS，DWS，CDM，DLI，SMN，DataArts等云服务插件扩展        | [招财猫](https://gitee.com/li-lianglong_admin) | 开发中 |
+| [Huawei-Kettle-plugins](https://gitee.com/HuaweiCloudDeveloper/Huawei-Kettle-plugins) | 提供OBS，DWS，CDM，DLI，SMN，DataArts等云服务插件扩展        | [acewuye](https://gitee.com/acewuye)           | 待分配 |
+| [jupyter-notebook](https://gitee.com/HuaweiCloudDeveloper/jupyter-notebook) |                                                              |                                                |        |
+| [Huawei-Airflow-provider](https://gitee.com/HuaweiCloudDeveloper/huawei-airflow-provider) | 提供OBS，DWS，CDM，DLI，SMN，DataArts等云服务插件扩展        | [chenweikai](https://gitee.com/chen_xuanwen)   | 已完成 |
+| [/apache-livy](https://gitee.com/HuaweiCloudDeveloper/apache-livy) |                                                              |                                                |        |
+| [cassandra](https://gitee.com/HuaweiCloudDeveloper/cassandra)   |                                                              |                                                |        |
 
