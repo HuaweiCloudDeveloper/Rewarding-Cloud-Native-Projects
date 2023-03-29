@@ -11,7 +11,7 @@
 
 | 仓库                                                         | 简介                                                         | Committer                                      | 状态   |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------------------------------------------- | ------ |
-| [Huawei-Thanos](https://gitee.com/HuaweiCloudDeveloper/obs-thanos-plugins) | 本项目的目的是扩展Thanos，使其支持OBS存储                    | [peng](https://gitee.com/pengcss)              | 完成   |
+| **【Go】**[Huawei-Thanos](https://gitee.com/HuaweiCloudDeveloper/obs-thanos-plugins) | 本项目的目的是扩展Thanos，使其支持OBS存储                    | [peng](https://gitee.com/pengcss)              | 完成   |
 | [Huawei-Tensorflow](https://gitee.com/HuaweiCloudDeveloper/obs-tensorflow-plugins) | 本项目是在[TensorFlow I/O](https://gitee.com/link?target=https%3A%2F%2Fgithub.com%2Ftensorflow%2Fio)添加对HuaweiCloud OBS的存储支持 | 待分配                                         | 待分配 |
 | [Huawei-Presto](https://gitee.com/HuaweiCloudDeveloper/obs-presto-plugin) | 本项目将基于Presto的扩展式connector机制，完成对华为云OBS，DataArts，DWS的支持 | [ysxyao](https://gitee.com/ysxyao)             | 开发中 |
 | [Huawei-Logstash](https://gitee.com/HuaweiCloudDeveloper/obs-logstash-plugins) | 利用Logstash的数据源扩展机制，使Logstash可以使用OBS作为输入，输出数据源 | [peng](https://gitee.com/pengcss)              | 完成   |
