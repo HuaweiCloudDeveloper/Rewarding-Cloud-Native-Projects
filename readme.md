@@ -58,9 +58,9 @@
 
 | 仓库                                                         | 简介                                                         | Committer | 状态   |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | --------- | ------ |
-| **【C++】**[Huawei-Tensorflow](https://gitee.com/HuaweiCloudDeveloper/obs-tensorflow-plugins) | 本项目是在[TensorFlow I/O](https://gitee.com/link?target=https%3A%2F%2Fgithub.com%2Ftensorflow%2Fio)添加对HuaweiCloud OBS的存储支持 | 待分配    | 待分配 |
-| **【C++】**[Huawei-Clickhouse](https://gitee.com/HuaweiCloudDeveloper/obs-clickhouse-plugins) | clickhouse对接华为云OBS插件                                  | 待分配    | 待分配 |
-| **【C++】**[Huawei-ClickHouse](https://gitee.com/HuaweiCloudDeveloper/obs-clickhouse-plugins) | ClickHouse对接华为云服务                                     | 待分配    | 待分配 |
+| [Huawei-Tensorflow](https://gitee.com/HuaweiCloudDeveloper/obs-tensorflow-plugins) | 本项目是在[TensorFlow I/O](https://gitee.com/link?target=https%3A%2F%2Fgithub.com%2Ftensorflow%2Fio)添加对HuaweiCloud OBS的存储支持 | 待分配    | 待分配 |
+| [Huawei-Clickhouse](https://gitee.com/HuaweiCloudDeveloper/obs-clickhouse-plugins) | clickhouse对接华为云OBS插件                                  | 待分配    | 待分配 |
+| [Huawei-ClickHouse](https://gitee.com/HuaweiCloudDeveloper/obs-clickhouse-plugins) | ClickHouse对接华为云服务                                     | 待分配    | 待分配 |
 
 
 
@@ -68,8 +68,8 @@
 
 | 仓库                                                         | 简介                        | Committer | 状态   |
 | ------------------------------------------------------------ | --------------------------- | --------- | ------ |
-| **【TypeScript】**[Huawei-Deepstream](https://gitee.com/HuaweiCloudDeveloper/huawei-deepstream-plugins) | Deepstream对接华为云OBS插件 | 梁剑      | 开发中 |
-| **【TypeScript】**[Huawei-Backstage](https://gitee.com/HuaweiCloudDeveloper/huawei-backstage-plugins) | Backstage对接华为云服务     | 袁俊波    | 开发中 |
+| [Huawei-Deepstream](https://gitee.com/HuaweiCloudDeveloper/huawei-deepstream-plugins) | Deepstream对接华为云OBS插件 | 梁剑      | 开发中 |
+| [Huawei-Backstage](https://gitee.com/HuaweiCloudDeveloper/huawei-backstage-plugins) | Backstage对接华为云服务     | 袁俊波    | 开发中 |
 
 
 
