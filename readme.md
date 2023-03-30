@@ -44,9 +44,32 @@
 | ------------------------------------------------------------ | :---------------------------------------- | --------------------------------- | ------ |
 | [Huawei-Thanos](https://gitee.com/HuaweiCloudDeveloper/obs-thanos-plugins) | 本项目的目的是扩展Thanos，使其支持OBS存储 | [peng](https://gitee.com/pengcss) | 完成   |
 | [Huawei-Vault](https://gitee.com/HuaweiCloudDeveloper/huawei-vault-plugins) | Vault对接华为云服务                       | [peng](https://gitee.com/pengcss) | 开发中 |
-
-
-
+| [Huawei-MinIO](https://gitee.com/HuaweiCloudDeveloper/huawei-min-io-plugins) | minio对接华为云OBS插件                    | 待分配                            | 待分配 |
+| [Huawei-CockroachDB](https://gitee.com/HuaweiCloudDeveloper/huawei-cockroach-db-plugins) | CockroachDB对接华为云OBS插件              | 待分配                            | 待分配 |
+| [Huawei-Drone](https://gitee.com/HuaweiCloudDeveloper/huawei-drone-plugins) | Drone对接华为云OBS插件                    | 待分配                            | 待分配 |
+| [Huawei-Consul](https://gitee.com/HuaweiCloudDeveloper/huawei-consul-plugins) | Consul对接华为云CA、ECS云服务             | 待分配                            | 待分配 |
+| [Huawei-Trivy](https://gitee.com/HuaweiCloudDeveloper/huawei-trivy-plugins) | Trivy对接华为云SWR、ECS等云服务           | 待分配                            | 待分配 |
+| [Huawei-Vitess](https://gitee.com/HuaweiCloudDeveloper/huawei-vitess-plugins) | Vitess对接华为云OBS插件                   | 待分配                            | 待分配 |
+| [Huawei-Cilium](https://gitee.com/HuaweiCloudDeveloper/huawei-cilium-plugins) | Cilium对接华为云VPC插件                   | 待分配                            | 待分配 |
+| [Huawei-Teleport](https://gitee.com/HuaweiCloudDeveloper/huawei-teleport-plugins) | Teleport对接华为云OBS、DDS等云服务        | 待分配                            | 待分配 |
+| [Huawei-Kaniko](https://gitee.com/HuaweiCloudDeveloper/huawei-kaniko-plugins) | Kaniko对接华为云OBS云服务                 | 待分配                            | 待分配 |
+| [Huawei-CoreDNS](https://gitee.com/HuaweiCloudDeveloper/huawei-core-dns-plugins) | CoreDNS对接华为云DNS云服务                | 待分配                            | 待分配 |
+| [Huawei-Cert-Manager](https://gitee.com/HuaweiCloudDeveloper/huawei-cert-manager-plugins) | cert-manager对接华为云DNS云服务           | 待分配                            | 待分配 |
+| [Huawei-Dolt](https://gitee.com/HuaweiCloudDeveloper/huawei-dolt-plugins) | Dolt对接华为云OBS云服务                   | 待分配                            | 待分配 |
+| [Huawei-Distribution](https://gitee.com/HuaweiCloudDeveloper/huawei-distribution-plugins) | Distribution对接华为云OBS服务             | 待分配                            | 待分配 |
+| [Huawei-Velero](https://gitee.com/HuaweiCloudDeveloper/huawei-velero-plugins) | Velero对接华为云OBS云服务                 | 待分配                            | 待分配 |
+| [Huawei-Cadence](https://gitee.com/HuaweiCloudDeveloper/huawei-cadence-plugins) | Cadence对接华为云OBS云服务                | 待分配                            | 待分配 |
+| [Huawei-Crossplane](https://gitee.com/HuaweiCloudDeveloper/huawei-crossplane-plugins) | Crossplane对接华为云OBS、DCS、RDS等云服务 | 待分配                            | 待分配 |
+| [Huawei-Kraken](https://gitee.com/HuaweiCloudDeveloper/huawei-kraken-plugins) | Kraken对接华为云OBS云服务                 | 待分配                            | 待分配 |
+| [Huawei-Easegress](https://gitee.com/HuaweiCloudDeveloper/huawei-easegress-plugins) | Easegress对接华为云DNS云服务              | 待分配                            | 待分配 |
+| [Huawei-Bytebase](https://gitee.com/HuaweiCloudDeveloper/huawei-bytebase-plugins) | Bytebase对接华为云OBS服务                 | 待分配                            | 待分配 |
+| [Huawei-Flux](https://gitee.com/HuaweiCloudDeveloper/huawei-flux-plugins) | Flux对接华为云SWR云服务                   | 待分配                            | 待分配 |
+| [Huawei-Flagger](https://gitee.com/HuaweiCloudDeveloper/huawei-flagger-plugins) | Flagger对接华为云CES云服务                | 待分配                            | 待分配 |
+| [Huawei-Terrascan](https://gitee.com/HuaweiCloudDeveloper/huawei-terrascan-plugins) | Terrascan对接华为云SWR云服务              | 待分配                            | 待分配 |
+| [Huawei-Gloo](https://gitee.com/HuaweiCloudDeveloper/huawei-gloo-plugins) | Gloo对接华为云ECS等云服务                 | 待分配                            | 待分配 |
+| [Huawei-Werf](https://gitee.com/HuaweiCloudDeveloper/huawei-werf-plugins) | Werf对接华为云SWR云服务                   | 待分配                            | 待分配 |
+| [Huawei-Pomerium](https://gitee.com/HuaweiCloudDeveloper/huawei-pomerium-plugins) | Pomerium对接华为云OBS服务                 | 待分配                            | 待分配 |
+| [Huawei-Weaviate](https://gitee.com/HuaweiCloudDeveloper/huawei-weaviate-plugins) | Weaviate对接华为云OBS服务                 | 待分配                            | 待分配 |
 ## Python
 
 | 仓库                                                         | 简介                                                         | Committer                                    | 状态   |
