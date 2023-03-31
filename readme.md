@@ -132,10 +132,9 @@
 | 【Scala】Huawei-Delta | Delta对接华为云服务     | 待分配    | 待分配 |
 | 【Scala】Huawei-CarbonData | CarbonData对接华为云服务     | 待分配    | 待分配 |
 | 【Rust】Huawei-TiKV | TiKV对接华为云服务     | 待分配    | 待分配 |
-| 【Rust】Huawei-Firecracker | TiKV对接华为云服务     | 待分配    | 待分配 |
+| 【Rust】Huawei-Firecracker | Firecracker对接华为云服务     | 待分配    | 待分配 |
 | 【Clujore】Huawei-Crux | Crux对接华为云服务     | 待分配    | 待分配 |
 | 【Rust】Huawei-Databend | Databend对接华为云服务     | 待分配    | 待分配 |
-| 【Clujore】Huawei-Crux | Crux对接华为云服务     | 待分配    | 待分配 |
 | 【Lua】Huawei-Tarantool | Tarantool对接华为云服务     | 待分配    | 待分配 |
 | 【Shell】Huawei-Spinnaker | Spinnaker对接华为云服务     | 待分配    | 待分配 |
 | 【Yaml】Huawei-OpenEBS | OpenEBS对接华为云服务     | 待分配    | 待分配 |
