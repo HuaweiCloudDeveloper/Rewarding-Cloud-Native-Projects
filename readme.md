@@ -79,6 +79,9 @@
 | [Huawei-Werf](https://gitee.com/HuaweiCloudDeveloper/huawei-werf-plugins) | Werf对接华为云SWR云服务                   | 待分配                            | 待分配 |
 | [Huawei-Pomerium](https://gitee.com/HuaweiCloudDeveloper/huawei-pomerium-plugins) | Pomerium对接华为云OBS服务                 | 待分配                            | 待分配 |
 | [Huawei-Weaviate](https://gitee.com/HuaweiCloudDeveloper/huawei-weaviate-plugins) | Weaviate对接华为云OBS服务                 | 待分配                            | 待分配 |
+
+
+
 ## Python
 
 | 仓库                                                         | 简介                                                         | Committer                                    | 状态   |
@@ -92,6 +95,8 @@
 | [Huawei-SaltStack](https://gitee.com/HuaweiCloudDeveloper/huawei-salt-stack) | SaltStack对接华为云服务                                      | 待分配                                       | 待分配 |
 | [Huawei-Checkov](https://gitee.com/HuaweiCloudDeveloper/huawei-checkov) | Checkov对接华为云服务                                        | 待分配                                       | 待分配 |
 | [Huawei-Kube-hunter](https://gitee.com/HuaweiCloudDeveloper/huawei-kube-hunter) | Kube-hunter对接华为云服务                                    | 待分配                                       | 待分配 |
+
+
 
 ## C & C++
 
@@ -118,9 +123,24 @@
 
 | 仓库                                                         | 简介                        | Committer | 状态   |
 | ------------------------------------------------------------ | --------------------------- | --------- | ------ |
-| [Huawei-Deepstream](https://gitee.com/HuaweiCloudDeveloper/huawei-deepstream-plugins) | Deepstream对接华为云OBS插件 | 梁剑      | 开发中 |
-| [Huawei-Backstage](https://gitee.com/HuaweiCloudDeveloper/huawei-backstage-plugins) | Backstage对接华为云服务     | 袁俊波    | 开发中 |
-
+| 【TypeScript】[Huawei-Deepstream](https://gitee.com/HuaweiCloudDeveloper/huawei-deepstream-plugins) | Deepstream对接华为云OBS插件 | 梁剑      | 开发中 |
+| 【TypeScript】[Huawei-Backstage](https://gitee.com/HuaweiCloudDeveloper/huawei-backstage-plugins) | Backstage对接华为云服务     | 待分配    | 待分配 |
+| 【TypeScript】Huawei-supabase | Backstage对接华为云服务     | 待分配    | 待分配 |
+| 【TypeScript】Huawei-Apache Camel Karavan | Backstage对接华为云服务     | 待分配    | 待分配 |
+| 【Html】Huawei-Contour | Contour对接华为云服务     | 待分配    | 待分配 |
+| 【Scala】Huawei-Spark | Spark对接华为云服务     | 完成    | 完成 |
+| 【Scala】Huawei-Delta | Delta对接华为云服务     | 待分配    | 待分配 |
+| 【Scala】Huawei-CarbonData | CarbonData对接华为云服务     | 待分配    | 待分配 |
+| 【Rust】Huawei-TiKV | TiKV对接华为云服务     | 待分配    | 待分配 |
+| 【Rust】Huawei-Firecracker | TiKV对接华为云服务     | 待分配    | 待分配 |
+| 【Clujore】Huawei-Crux | Crux对接华为云服务     | 待分配    | 待分配 |
+| 【Rust】Huawei-Databend | Databend对接华为云服务     | 待分配    | 待分配 |
+| 【Clujore】Huawei-Crux | Crux对接华为云服务     | 待分配    | 待分配 |
+| 【Lua】Huawei-Tarantool | Tarantool对接华为云服务     | 待分配    | 待分配 |
+| 【Shell】Huawei-Spinnaker | Spinnaker对接华为云服务     | 待分配    | 待分配 |
+| 【Yaml】Huawei-OpenEBS | OpenEBS对接华为云服务     | 待分配    | 待分配 |
+| 【Ruby】Huawei-Chef Infra | Chef Infra对接华为云服务     | 待分配    | 待分配 |
+| 【Groovy】Huawei-Rundeck | Rundeck对接华为云服务     | 待分配    | 待分配 |
 
 
 [^备注]: 开发者可以通过issues和邮件认领状态为待分配的项目，社区确认后将有专人联系对接。
