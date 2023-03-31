@@ -24,7 +24,7 @@
 | [Huawei-Heron](https://gitee.com/HuaweiCloudDeveloper/huawei-heron-plugins) | Heron对接华为云OBS插件                                       | 待分配                                          | 待分配 |
 | [Huawei-Hudi](https://gitee.com/HuaweiCloudDeveloper/huawei-hudi-plugins) | Hudi对接华为云OBS，CES，NoSql，DataArts等云服务，进行代码扩展 | [鬼画符](https://gitee.com/mail_osc)            | 开发中 |
 | [Huawei-Iceberg](https://gitee.com/HuaweiCloudDeveloper/huawei-iceberg-plugins) | Iceberg对接华为云OBS，Nosql，DataArts等云服务，进行代码扩展  | [鬼画符](https://gitee.com/mail_osc)            | 开发中 |
-| [Huawei-Seatunnel](https://gitee.com/HuaweiCloudDeveloper/huawei-seatunnel-plugins) | Seatunnel对接华为云服务                                      | [ludihu](https://gitee.com/ludihu)              | 待分配 |
+| [Huawei-Seatunnel](https://gitee.com/HuaweiCloudDeveloper/huawei-seatunnel-plugins) | Seatunnel对接华为云服务                                      | 待分配              | 待分配 |
 | [Huawei-Hazel IMDG](https://gitee.com/HuaweiCloudDeveloper/huawei-hazel-imdg-plugins) | Hazel对接华为云OBS，DLI，ECS等云服务                         | 待分配                                          | 待分配 |
 | [Huawei-Zeppelin](https://gitee.com/HuaweiCloudDeveloper/huawei-zeppelin-plugins) | Zeppelin对接华为云服务                                       | 待分配                                          | 待分配 |
 | [Huawei-Alluxio](https://gitee.com/HuaweiCloudDeveloper/huawei-alluxio-plugins) | Alluxio对接华为云OBS，DataArts等云服务                       | 待分配                                          | 待分配 |
