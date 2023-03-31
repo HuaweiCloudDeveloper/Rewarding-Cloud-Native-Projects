@@ -1,7 +1,7 @@
 # 仓库简介
 
 开发者将开源软件工具、开源应用和开源组件与华为云对象存储OBS、数仓DWS、云容器CCE等云服务对接，同时基于Terraform模板，上架到华为云云商店，支持其他开发者一键部署使用开源组件 ，我们称为“开源xxx for HuaweiCloud”。
-参与贡献的开发者将有计划会获得华为云开源政策支持，如果您有意愿参与，请在issues留下您的邮箱或者主动发送到邮件到hwcdtse@huawei.com，我们会尽快联系您，感谢关注！
+参与贡献的开发者将有计划会获得[华为云沃土云创计划](https://developer.huaweicloud.com/programs/dev-program.html)支持，如果您有意愿参与，请在issues留下您的邮箱或者主动发送到邮件到hwcdtse@huawei.com，我们会尽快联系您，感谢关注！
 
 
 
@@ -35,6 +35,15 @@
 | [Huawei-DolphinScheduler](https://gitee.com/HuaweiCloudDeveloper/huawei-dolphin-scheduler-plugins) | DolphinScheduler对接华为云OBS，DLI，DWS，CCE，MRS等云服务    | [Iuge](https://gitee.com/ChuangHuLiDeShuangYan) | 开发中 |
 | [Huawei-Pulsar](https://gitee.com/HuaweiCloudDeveloper/huawei-pulsar-plugins) | Pulsar对接华为云OBS，DLI，DWS等云服务                        | momimi1234                                      | 开发中 |
 | [Huawei-Druid](https://gitee.com/HuaweiCloudDeveloper/Huaweicloud-Druid-plugin) | Druid对接华为云OBS，DLI，RDS等云服务                         | 待分配                                          | 待分配 |
+| Huawei-Drill | Drill对接华为云服务                         | 待分配                                          | 待分配 |
+| Huawei-Flume | Flume对接华为云服务                         | 待分配                                          | 待分配 |
+| Huawei-Starrocs | Starrocs对接华为云服务                         | 待分配                                          | 待分配 |
+| Huawei-Hive | Hive对接华为云服务                         | 待分配                                          | 待分配 |
+| Huawei-Camel | Camel对接华为云服务                         | 待分配                                          | 待分配 |
+| Huawei-confluentinc | confluentinc对接华为云服务                         | 待分配                                          | 待分配 |
+| Huawei-Ranger | Ranger对接华为云OBS                         | 待分配                                          | 待分配 |
+
+
 
 
 
