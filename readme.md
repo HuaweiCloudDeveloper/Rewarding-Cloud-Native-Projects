@@ -48,7 +48,7 @@
 | [Huawei-Druid](https://gitee.com/HuaweiCloudDeveloper/Huaweicloud-Druid-plugin) | Druid对接华为云OBS，DLI，RDS等云服务                         | 待分配                                          | 待分配 |
 | Huawei-Drill | Drill对接华为云服务                         | 待分配                                          | 待分配 |
 | Huawei-Flume | Flume对接华为云服务                         | 完成                                          | 完成 |
-| Huawei-Starrocs | Starrocs对接华为云服务                         | 待分配                                          | 待分配 |
+| Huawei-Starrockks | Starrocs对接华为云服务                         | 待分配                                          | 待分配 |
 | Huawei-Hive | Hive对接华为云服务                         | 完成                                          | 完成 |
 | Huawei-Camel | Camel对接华为云服务                         | 待分配                                          | 待分配 |
 | Huawei-confluentinc | confluentinc对接华为云服务                         | 待分配                                          | 待分配 |
