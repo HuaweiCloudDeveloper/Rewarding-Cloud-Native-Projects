@@ -28,7 +28,7 @@
 | [Huawei-Flink](https://gitee.com/HuaweiCloudDeveloper/obs-flink-plugins) | 利用flink的扩展机制，对接华为云 OBS，DLI，CDM等服务。        | [@xfanonymous](https://gitee.com/xfanonymous)   | 开发中 |
 | [Huawei-Datax](https://gitee.com/HuaweiCloudDeveloper/obs-datax-plugins) | datax对接华为云OBS插件                                       | [鬼画符](https://gitee.com/mail_osc)            | 完成   |
 | [Huawei-Druid](https://gitee.com/HuaweiCloudDeveloper/obs-druid-plugins) | Druid对接OBS，DLI插件                                        | [鹧鸪](https://gitee.com/zhegu123)              | 待分配 |
-| [Huawei-Kettle](https://gitee.com/HuaweiCloudDeveloper/Huawei-Kettle-plugins) | 提供OBS，DWS，CDM，DLI，SMN，DataArts等云服务插件扩展        | [acewuye](https://gitee.com/acewuye)            | 待分配 |
+| [Huawei-Kettle](https://gitee.com/HuaweiCloudDeveloper/Huawei-Kettle-plugins) | 提供OBS，DWS，CDM，DLI，SMN，DataArts等云服务插件扩展        | [acewuye](https://gitee.com/acewuye)            | 开发中 |
 | [Huawei-NiFi](https://gitee.com/HuaweiCloudDeveloper/huawei-nifi-bundle) | 提供OBS，DWS，CDM，DLI，SMN，DataArts等云服务插件扩展        | [招财猫](https://gitee.com/li-lianglong_admin)  | 开发中 |
 | [Huawei-Sqoop](https://gitee.com/HuaweiCloudDeveloper/huawei-sqoop-plugins) | Sqoop对接华为云OBS插件                                       | [鬼画符](https://gitee.com/mail_osc)            | 开发中 |
 | [Huawei-Crate.io](https://gitee.com/HuaweiCloudDeveloper/huawei-crate.io-plugins) | Crate.io对接华为云OBS插件                                    | 待分配                                          | 待分配 |
@@ -41,7 +41,6 @@
 | [Huawei-Alluxio](https://gitee.com/HuaweiCloudDeveloper/huawei-alluxio-plugins) | Alluxio对接华为云OBS，DataArts等云服务                       | 已完成                                          | 已完成 |
 | [Huawei-Beam](https://gitee.com/HuaweiCloudDeveloper/huawei-beam-plugins) | Beam对接华为云OBS，Nosql，DMS，SMN，DLI等云服务              | [鬼画符](https://gitee.com/mail_osc)            | 开发中 |
 | [Huawei-Storm](https://gitee.com/HuaweiCloudDeveloper/huawei-storm-plugins) | Storm对接华为云DataArts                                       | 待分配                                          | 待分配 |
-| [Huawei-GoCD](https://gitee.com/HuaweiCloudDeveloper/huawei-go-cd-plugins) | GoCD对接华为云OBS，ECS等云服务                               | 待分配                                          | 待分配 |
 | [Huawei-Doris](https://gitee.com/HuaweiCloudDeveloper/huawei-doris-plugins) | Doris对接华为云OBS，DataArts，DWS等云服务                    | doris团队                                       | 开发中 |
 | [Huawei-DolphinScheduler](https://gitee.com/HuaweiCloudDeveloper/huawei-dolphin-scheduler-plugins) | DolphinScheduler对接华为云OBS，DLI，DWS，CCE，MRS等云服务    | [Iuge](https://gitee.com/ChuangHuLiDeShuangYan) | 开发中 |
 | [Huawei-Pulsar](https://gitee.com/HuaweiCloudDeveloper/huawei-pulsar-plugins) | Pulsar对接华为云OBS，DLI，DWS等云服务                        | momimi1234                                      | 开发中 |
