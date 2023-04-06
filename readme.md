@@ -40,7 +40,7 @@
 | [Huawei-Zeppelin](https://gitee.com/HuaweiCloudDeveloper/huawei-zeppelin-plugins) | Zeppelin对接华为云服务                                       | 待分配                                          | 待分配 |
 | [Huawei-Alluxio](https://gitee.com/HuaweiCloudDeveloper/huawei-alluxio-plugins) | Alluxio对接华为云OBS，DataArts等云服务                       | 已完成                                          | 已完成 |
 | [Huawei-Beam](https://gitee.com/HuaweiCloudDeveloper/huawei-beam-plugins) | Beam对接华为云OBS，Nosql，DMS，SMN，DLI等云服务              | [鬼画符](https://gitee.com/mail_osc)            | 开发中 |
-| [Huawei-Storm](https://gitee.com/HuaweiCloudDeveloper/huawei-storm-plugins) | Beam对接华为云DataArts                                       | 待分配                                          | 待分配 |
+| [Huawei-Storm](https://gitee.com/HuaweiCloudDeveloper/huawei-storm-plugins) | Storm对接华为云DataArts                                       | 待分配                                          | 待分配 |
 | [Huawei-GoCD](https://gitee.com/HuaweiCloudDeveloper/huawei-go-cd-plugins) | GoCD对接华为云OBS，ECS等云服务                               | 待分配                                          | 待分配 |
 | [Huawei-Doris](https://gitee.com/HuaweiCloudDeveloper/huawei-doris-plugins) | Doris对接华为云OBS，DataArts，DWS等云服务                    | doris团队                                       | 开发中 |
 | [Huawei-DolphinScheduler](https://gitee.com/HuaweiCloudDeveloper/huawei-dolphin-scheduler-plugins) | DolphinScheduler对接华为云OBS，DLI，DWS，CCE，MRS等云服务    | [Iuge](https://gitee.com/ChuangHuLiDeShuangYan) | 开发中 |
