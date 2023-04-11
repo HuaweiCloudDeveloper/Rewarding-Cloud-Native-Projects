@@ -105,6 +105,7 @@
 | [Huawei-SaltStack](https://gitee.com/HuaweiCloudDeveloper/huawei-salt-stack) | SaltStack对接华为云服务                                      | 待分配                                       | 待分配 |
 | [Huawei-Checkov](https://gitee.com/HuaweiCloudDeveloper/huawei-checkov) | Checkov对接华为云服务                                        | 待分配                                       | 待分配 |
 | [Huawei-Kube-hunter](https://gitee.com/HuaweiCloudDeveloper/huawei-kube-hunter) | Kube-hunter对接华为云服务                                    | 待分配                                       | 待分配 |
+| [Huawei-Django-Storages](https://gitee.com/HuaweiCloudDeveloper/huawei-django-storages) | django-storages对接华为云服务OBS，实现以OBS作为Django的一种自定义存储后端的功能 | 待分配                                       | 待分配 |
 
 
 
