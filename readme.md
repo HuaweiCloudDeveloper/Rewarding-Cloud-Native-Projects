@@ -6,6 +6,9 @@
 
 
 # 项目总览
+
+[开发参考](https://gitee.com/HuaweiCloudDeveloper/open-source-project-development-experience)
+
 ## Dromara社区
 
 | 仓库                                                         | 简介                                                         | Committer                                       | 状态   |
