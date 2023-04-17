@@ -7,13 +7,13 @@
 
 以下开源项目对接华为云服务过程一些经验总结，描述了开发过程中的体验，踩坑经历以及解决问题的思路。
 
-| 名称                                                         | 实践                                                         |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [Huawei-NiFi](https://gitee.com/HuaweiCloudDeveloper/huawei-nifi-bundle) | [地址](https://gitee.com/HuaweiCloudDeveloper/open-source-project-development-experience/tree/master/nifi) |
-| [Huawei-Kettle](https://gitee.com/HuaweiCloudDeveloper/Huawei-Kettle-plugins) | [地址](https://gitee.com/HuaweiCloudDeveloper/open-source-project-development-experience/tree/master/kettle) |
-| [Huawei-Airflow](https://gitee.com/HuaweiCloudDeveloper/huawei-airflow-provider) | [地址](https://gitee.com/HuaweiCloudDeveloper/open-source-project-development-experience/tree/master/Airflow) |
-| [Huawei-Hudi](https://gitee.com/HuaweiCloudDeveloper/huawei-hudi-plugins) | [地址](https://gitee.com/HuaweiCloudDeveloper/open-source-project-development-experience/tree/master/Hudi) |
-| [Huawei-Thanos](https://gitee.com/HuaweiCloudDeveloper/obs-thanos-plugins) | [地址](https://gitee.com/HuaweiCloudDeveloper/open-source-project-development-experience/tree/master/Thanos) |
+| 名称           | 实践                                                         |
+| -------------- | ------------------------------------------------------------ |
+| Huawei-NiFi    | [地址](https://gitee.com/HuaweiCloudDeveloper/huawei-nifi-bundle) |
+| Huawei-Kettle  | [地址](https://gitee.com/HuaweiCloudDeveloper/Huawei-Kettle-plugins) |
+| Huawei-Airflow | [地址](https://gitee.com/HuaweiCloudDeveloper/huawei-airflow-provider) |
+| Huawei-Hudi    | [地址](https://gitee.com/HuaweiCloudDeveloper/huawei-hudi-plugins) |
+| Huawei-Thanos  | [地址](https://gitee.com/HuaweiCloudDeveloper/obs-thanos-plugins) |
 
 
 # 项目总览
