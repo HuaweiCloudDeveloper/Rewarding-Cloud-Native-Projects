@@ -3,11 +3,20 @@
 开发者将开源软件工具、开源应用和开源组件与华为云对象存储OBS、数仓DWS、云容器CCE等云服务对接，同时基于Terraform模板，上架到华为云云商店，支持其他开发者一键部署使用开源组件 ，我们称为“开源xxx for HuaweiCloud”。
 参与贡献的开发者将有计划会获得[华为云沃土云创计划](https://developer.huaweicloud.com/programs/dev-program.html)激励，如果您有意愿参与，请在issues留下您的邮箱或者主动发送到邮件到hwcdtse@huawei.com，我们会尽快联系您，感谢关注！
 
+### 开发实践参考
+
+以下开源项目对接华为云服务过程一些经验总结，描述了开发过程中的体验，踩坑经历以及解决问题的思路。
+
+| 名称                                                         | 总结                                                         |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [Apache NiFi](https://gitee.com/HuaweiCloudDeveloper/huawei-nifi-bundle) | [地址](https://gitee.com/HuaweiCloudDeveloper/open-source-project-development-experience/tree/master/nifi) |
+| [Kettle](https://gitee.com/HuaweiCloudDeveloper/Huawei-Kettle-plugins) | [地址](https://gitee.com/HuaweiCloudDeveloper/open-source-project-development-experience/tree/master/kettle) |
+| [Airflow](https://gitee.com/HuaweiCloudDeveloper/huawei-airflow-provider) | [地址](https://gitee.com/HuaweiCloudDeveloper/open-source-project-development-experience/tree/master/Airflow) |
+| [Hudi](https://gitee.com/HuaweiCloudDeveloper/huawei-hudi-plugins) | [地址](https://gitee.com/HuaweiCloudDeveloper/open-source-project-development-experience/tree/master/Hudi) |
+| [Thanos](https://gitee.com/HuaweiCloudDeveloper/obs-thanos-plugins) | [地址](https://gitee.com/HuaweiCloudDeveloper/open-source-project-development-experience/tree/master/Thanos) |
 
 
 # 项目总览
-
-[开发参考](https://gitee.com/HuaweiCloudDeveloper/open-source-project-development-experience)
 
 ## Dromara社区
 
