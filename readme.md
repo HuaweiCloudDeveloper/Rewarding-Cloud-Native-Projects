@@ -14,6 +14,7 @@
 | Huawei-Airflow | [地址](https://gitee.com/HuaweiCloudDeveloper/huawei-airflow-provider) |
 | Huawei-Hudi    | [地址](https://gitee.com/HuaweiCloudDeveloper/huawei-hudi-plugins) |
 | Huawei-Thanos  | [地址](https://gitee.com/HuaweiCloudDeveloper/obs-thanos-plugins) |
+| Api'Table      | [地址](https://gitee.com/HuaweiCloudDeveloper/open-source-project-development-experience/blob/master/ApiTable/ApiTable%E5%BC%80%E6%BA%90%E8%B4%A1%E7%8C%AE%E5%AE%9E%E8%B7%B5%E6%80%BB%E7%BB%93.md) |
 
 
 # 项目总览
