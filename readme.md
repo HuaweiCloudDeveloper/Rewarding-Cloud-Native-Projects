@@ -102,6 +102,7 @@
 | [Huawei-Werf](https://gitee.com/HuaweiCloudDeveloper/huawei-werf-plugins) | Werf对接华为云SWR云服务                   | 待分配                            | 待分配 |
 | [Huawei-Pomerium](https://gitee.com/HuaweiCloudDeveloper/huawei-pomerium-plugins) | Pomerium对接华为云OBS服务                 | 待分配                            | 待分配 |
 | [Huawei-Weaviate](https://gitee.com/HuaweiCloudDeveloper/huawei-weaviate-plugins) | Weaviate对接华为云OBS服务                 | 待分配                            | 待分配 |
+| [Huawei-Harbor](https://gitee.com/HuaweiCloudDeveloper/huaweicloud-harbor-obs) | Harbor对接华为云OBS服务 | [peng](https://gitee.com/pengcss) | 开发中 |
 
 
 
