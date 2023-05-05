@@ -62,7 +62,7 @@
 | Huawei-Flume | Flume对接华为云服务                         | 完成                                          | 完成 |
 | Huawei-Starrocks | Starrocs对接华为云服务                         | 待分配                                          | 待分配 |
 | Huawei-Hive | Hive对接华为云服务                         | 完成                                          | 完成 |
-| Huawei-Camel | Camel对接华为云服务                         | 待分配                                          | 待分配 |
+| Huawei-Camel | Camel对接华为云服务                         | 已完成                                          |  |
 | Huawei-confluentinc | confluentinc对接华为云服务                         | 待分配                                          | 待分配 |
 | Huawei-Ranger | Ranger对接华为云OBS                         | 待分配                                          | 待分配 |
 
