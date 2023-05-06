@@ -112,7 +112,7 @@
 | ------------------------------------------------------------ | ------------------------------------------------------------ | -------------------------------------------- | ------ |
 | [Huawei-Airflow](https://gitee.com/HuaweiCloudDeveloper/huawei-airflow-provider) | 提供OBS，DWS，CDM，DLI，SMN，DataArts等云服务插件扩展        | [chenweikai](https://gitee.com/chen_xuanwen) | 已完成 |
 | [Huawei-Prefect](https://gitee.com/HuaweiCloudDeveloper/huawei-prefect-plugins) | Prefect对接华为云服务, 提供VPC，ECS，OBS，FunctionGraph，AS，BMS，DNS，ELB，NAT，安全组等云服务插件扩展 | 待分配                                       | 待分配 |
-| [Huawei-Ansible](https://gitee.com/HuaweiCloudDeveloper/huawei-ansible) | Ansible对接华为云服务                                        | 待分配                                       | 待分配 |
+| [Huawei-Ansible](https://gitee.com/HuaweiCloudDeveloper/huawei-ansible) | Ansible对接华为云服务                                        | 待分配                                       | 已完成 |
 | [Huawei-Emissary-Ingress](https://gitee.com/HuaweiCloudDeveloper/huawei-emissary-ingress) | Emissary-Ingress对接华为云服务                               | 待分配                                       | 待分配 |
 | [Huawei-Cloud-Custodian](https://gitee.com/HuaweiCloudDeveloper/huawei-cloud-custodian) | Cloud-Custodian对接华为云服务                                | 待分配                                       | 待分配 |
 | [Huawei-CDK8s](https://gitee.com/HuaweiCloudDeveloper/huawei-cdk8s) | CDK for Kubernetes(CDK8s)对接华为云服务                      | 待分配                                       | 待分配 |
