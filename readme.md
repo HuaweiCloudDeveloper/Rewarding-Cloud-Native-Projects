@@ -85,7 +85,7 @@
 | [Huawei-Cilium](https://gitee.com/HuaweiCloudDeveloper/huawei-cilium-plugins) | Cilium对接华为云VPC插件                   |  [鬼画符](https://gitee.com/mail_osc)  | 开发中 |
 | [Huawei-Teleport](https://gitee.com/HuaweiCloudDeveloper/huawei-teleport-plugins) | Teleport对接华为云OBS、DDS等云服务        | [鬼画符](https://gitee.com/mail_osc) | 开发中 |
 | [Huawei-Kaniko](https://gitee.com/HuaweiCloudDeveloper/huawei-kaniko-plugins) | Kaniko对接华为云OBS云服务                 | 待分配                            | 待分配 |
-| [Huawei-CoreDNS](https://gitee.com/HuaweiCloudDeveloper/huawei-core-dns-plugins) | CoreDNS对接华为云DNS云服务                | [peng](https://gitee.com/pengcss)                            | 开发中 |
+| [Huawei-CoreDNS](https://gitee.com/HuaweiCloudDeveloper/huawei-core-dns-plugins) | CoreDNS对接华为云DNS云服务                | [wulidiandeng](https://gitee.com/wulidiandeng)                            | 开发中 |
 | [Huawei-Cert-Manager](https://gitee.com/HuaweiCloudDeveloper/huawei-cert-manager-plugins) | cert-manager对接华为云DNS云服务           | 待分配                            | 待分配 |
 | [Huawei-Dolt](https://gitee.com/HuaweiCloudDeveloper/huawei-dolt-plugins) | Dolt对接华为云OBS云服务                   | 待分配                            | 待分配 |
 | [Huawei-Distribution](https://gitee.com/HuaweiCloudDeveloper/huawei-distribution-plugins) | Distribution对接华为云OBS服务             | 待分配                            | 待分配 |
