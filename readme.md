@@ -9,11 +9,11 @@
 
 | 名称                | 实践                                                         |
 | ------------------- | ------------------------------------------------------------ |
-| HuaweiCloud-NiFi    | [地址](https://gitee.com/HuaweiCloudDeveloper/huawei-nifi-bundle) |
-| HuaweiCloud-Kettle  | [地址](https://gitee.com/HuaweiCloudDeveloper/Huawei-Kettle-plugins) |
+| HuaweiCloud-NiFi    | [地址](https://gitee.com/HuaweiCloudDeveloper/huaweicloud-nifi-bundle/tree/master/%E5%BC%80%E5%8F%91%E5%AE%9E%E8%B7%B5) |
+| HuaweiCloud-Kettle  | [地址](https://gitee.com/HuaweiCloudDeveloper/HuaweiCloud-Kettle-plugins/tree/master/%E5%BC%80%E5%8F%91%E5%AE%9E%E8%B7%B5) |
 | HuaweiCloud-Airflow | [地址](https://gitee.com/HuaweiCloudDeveloper/huawei-airflow-provider) |
-| HuaweiCloud-Hudi    | [地址](https://gitee.com/HuaweiCloudDeveloper/huawei-hudi-plugins) |
-| HuaweCloudi-Thanos  | [地址](https://gitee.com/HuaweiCloudDeveloper/obs-thanos-plugins) |
+| HuaweiCloud-Hudi    | [地址](https://gitee.com/HuaweiCloudDeveloper/huaweicloud-hudi-plugins/tree/master/%E5%BC%80%E5%8F%91%E5%AE%9E%E8%B7%B5) |
+| HuaweCloudi-Thanos  | [地址](https://gitee.com/HuaweiCloudDeveloper/obs-thanos-plugins/tree/master/%E5%BC%80%E5%8F%91%E5%AE%9E%E8%B7%B5) |
 | ApiTable            | [地址](https://gitee.com/HuaweiCloudDeveloper/open-source-project-development-experience/blob/master/ApiTable/ApiTable%E5%BC%80%E6%BA%90%E8%B4%A1%E7%8C%AE%E5%AE%9E%E8%B7%B5%E6%80%BB%E7%BB%93.md) |
 
 
