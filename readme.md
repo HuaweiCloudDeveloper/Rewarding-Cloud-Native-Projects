@@ -104,6 +104,7 @@
 | [HuaweCloudi-Weaviate](https://gitee.com/HuaweiCloudDeveloper/huawei-weaviate-plugins) | Weaviate对接华为云OBS服务                 | 待分配                            | 待分配 |
 | [HuaweiCloud-Harbor](https://gitee.com/HuaweiCloudDeveloper/huaweicloud-harbor-obs) | Harbor对接华为云OBS服务 | [peng](https://gitee.com/pengcss) | 开发中 |
 | [HuaweiCloud-Prometheus](https://gitee.com/HuaweiCloudDeveloper/huaweicloud-prometheus) | Prometheus对接华为云服务 | 待分配 | 待分配 |
+| HuaweiCloud-Milvus | Milvus对接华为云服务 | 待分配 | 待分配 |
 
 
 
