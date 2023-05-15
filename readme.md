@@ -49,8 +49,8 @@
 | [HuaweiCloud-Hudi](https://gitee.com/HuaweiCloudDeveloper/huawei-hudi-plugins) | Hudi对接华为云OBS，CES，NoSql，DataArts等云服务，进行代码扩展 | [鬼画符](https://gitee.com/mail_osc)            | 开发中 |
 | [HuaweiCloud-Iceberg](https://gitee.com/HuaweiCloudDeveloper/huawei-iceberg-plugins) | Iceberg对接华为云OBS，Nosql，DataArts等云服务，进行代码扩展  | [鬼画符](https://gitee.com/mail_osc)            | 开发中 |
 | [HuaweiCloud-Seatunnel](https://gitee.com/HuaweiCloudDeveloper/huawei-seatunnel-plugins) | Seatunnel对接华为云服务                                      | 待分配              | 待分配 |
-| [HuaweiCloud-Hazel IMDG](https://gitee.com/HuaweiCloudDeveloper/huawei-hazel-imdg-plugins) | Hazel对接华为云OBS，DLI，ECS等云服务                         | [aly](https://gitee.com/yuanzhangaly) | 开发中 |
-| [Huaweicloud-Hazelcast](https://gitee.com/HuaweiCloudDeveloper/Huaweicloud-Hazelcast-IMDG-plugin) | Hazelcast对接华为云服务 | [aly](https://gitee.com/yuanzhangaly) | 开发中 |
+| [HuaweiCloud-Hazel IMDG](https://gitee.com/HuaweiCloudDeveloper/huawei-hazel-imdg-plugins) | Hazel对接华为云OBS，DLI，ECS等云服务                         | [acewuye](https://gitee.com/acewuye) | 开发中 |
+| [Huaweicloud-Hazelcast](https://gitee.com/HuaweiCloudDeveloper/Huaweicloud-Hazelcast-IMDG-plugin) | Hazelcast对接华为云服务 | [acewuye](https://gitee.com/acewuye) | 开发中 |
 | [HuaweiCloud-Zeppelin](https://gitee.com/HuaweiCloudDeveloper/huawei-zeppelin-plugins) | Zeppelin对接华为云服务                                       | 待分配                                          | 待分配 |
 | [HuaweiCloud-Alluxio](https://gitee.com/HuaweiCloudDeveloper/huawei-alluxio-plugins) | Alluxio对接华为云OBS，DataArts等云服务                       | 已完成                                          | 已完成 |
 | [HuaweiCloud-Beam](https://gitee.com/HuaweiCloudDeveloper/huawei-beam-plugins) | Beam对接华为云OBS，Nosql，DMS，SMN，DLI等云服务              | [鬼画符](https://gitee.com/mail_osc)            | 开发中 |
