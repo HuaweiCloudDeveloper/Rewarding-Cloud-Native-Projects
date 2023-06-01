@@ -66,6 +66,7 @@
 | HuaweiCloud-Camel | Camel对接华为云服务                         | 已完成                                          |  |
 | HuaweiCloud-confluentinc | confluentinc对接华为云服务                         | 待分配                                          | 待分配 |
 | HuaweiCloud-Ranger | Ranger对接华为云OBS                         | 待分配                                          | 待分配 |
+| [HuaweiCloud-ElasticSearch](https://gitee.com/HuaweiCloudDeveloper/huawei-cloud-elasticsearch-plugins) | ElasticSearch对接华为云OBS | [yang](https://gitee.com/foreachlife) | 开发中 |
 
 
 
